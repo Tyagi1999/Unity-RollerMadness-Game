@@ -1,0 +1,68 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   26.20.100.7925
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Build\Windows\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.673500 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 9c4 -> priority: 1 
+  Thread -> id: 53f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.329000 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 0.366000 ms (FindLiveObjects: 0.033400 ms CreateObjectMapping: 0.021600 ms MarkObjects: 0.300200 ms  DeleteObjects: 0.009700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.666800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 533.
+Total: 0.353200 ms (FindLiveObjects: 0.032100 ms CreateObjectMapping: 0.020300 ms MarkObjects: 0.291200 ms  DeleteObjects: 0.009100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.716400 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 576.
+Total: 0.342700 ms (FindLiveObjects: 0.032200 ms CreateObjectMapping: 0.020000 ms MarkObjects: 0.280800 ms  DeleteObjects: 0.009200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.867300 ms
+Warning: no main camera found. Ball needs a Camera tagged "MainCamera", for camera-relative controls.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.354500 ms (FindLiveObjects: 0.030300 ms CreateObjectMapping: 0.019700 ms MarkObjects: 0.276400 ms  DeleteObjects: 0.027600 ms)
+
